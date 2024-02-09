@@ -9,9 +9,8 @@ function App() {
         <h1>React API Example</h1>
       </header>
       <main> 
-
         <UserList />
-        
+
       </main>
     </div>
   );
